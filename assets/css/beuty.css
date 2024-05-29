@@ -1,0 +1,37 @@
+/*This is css*/
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:aqua;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 30px;
+    color: #ff2b42;
+    display: block;
+    text-decoration: none;
+    font-family: Chilanka, cursive;
+}
+h2{
+    text-align: center;
+    color: aquamarine;
+}
+body{
+
+}
+th,td {
+    border: 3px solid hsl(0, 48%, 12%);
+    padding: 20px;
+    font-family: Chilanka, cursive;
+
+}
+
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
